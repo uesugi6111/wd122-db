@@ -1,0 +1,12 @@
+[package]
+name = "wd122-db"
+version = "0.1.0"
+authors = ["uesugi6111 <59960488+aburaya6111@users.noreply.github.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+dotenv = "0.15.0"
+once_cell = "1.7.2"
+relly =  { git = "https://github.com/KOBA789/relly.git" ,branch = "wdb"}
