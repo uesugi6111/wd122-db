@@ -10,3 +10,4 @@ edition = "2018"
 dotenv = "0.15.0"
 once_cell = "1.7.2"
 relly =  { git = "https://github.com/KOBA789/relly.git" ,branch = "wdb"}
+thiserror = "1.0.24"
